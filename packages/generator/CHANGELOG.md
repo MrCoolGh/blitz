@@ -1,5 +1,11 @@
 # @blitzjs/generator
 
+## 3.0.0
+
+### Major Changes
+
+- ce1a603b2: TODO: Upgrade @tanstack/react-query to v5.1.1
+
 ## 2.2.1
 
 ### Patch Changes

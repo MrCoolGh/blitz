@@ -1,5 +1,18 @@
 # @blitzjs/next
 
+## 3.0.0
+
+### Major Changes
+
+- ce1a603b2: TODO: Upgrade @tanstack/react-query to v5.1.1
+
+### Patch Changes
+
+- Updated dependencies [11c9f00eb]
+- Updated dependencies [ce1a603b2]
+  - @blitzjs/rpc@3.0.0
+  - blitz@3.0.0
+
 ## 2.2.1
 
 ### Patch Changes

@@ -1,5 +1,17 @@
 # @blitzjs/rpc
 
+## 3.0.0
+
+### Major Changes
+
+- ce1a603b2: TODO: Upgrade @tanstack/react-query to v5.1.1
+
+### Patch Changes
+
+- 11c9f00eb: fix(4407): setQueryData with useInfiniteQuery
+- Updated dependencies [ce1a603b2]
+  - blitz@3.0.0
+
 ## 2.2.1
 
 ### Patch Changes
